@@ -1,5 +1,4 @@
 # Humain-Ressources-insights
-# Presence Insights for humain Ressources-Dashboard
 
 ## Problem Statement
 
